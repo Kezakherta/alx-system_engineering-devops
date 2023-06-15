@@ -1,2 +1,2 @@
 #!/bin/bash 
-20-hiago
+tail -n 1 < iacta >> iacta
